@@ -5,14 +5,11 @@ This will be a portfolio detailing various projects in machine learning and data
 There are a few projects here which work more on programming in python and implimenting algorithms from scratch (mostly just numpy and pandas). These are
 to get a better understanding on how some of these models work under the hood as well as to practice programming.
 
-### Data Analysis
-These projects generally focus more on data manipulation and visualizations. There may or may not be some modeling being done as well.
-
-
 ### Kaggle Competitions
-I have done the two super basic kaggle competitions on the titanic data as well as the housing dataset. These projects involve data manipulation and modeling
-using sklearn.
+I have done the two introductory kaggle competitions on the titanic data as well as the housing dataset. Both of these competitions focused on prediction accuracy one for a classification task the other regression. These projects involve data manipulation and modeling using sklearn and other packages.
 
+### Data Analysis
+These projects generally focus cleaning datasets and generation of simple statistics and visualization. There may or may not be some modeling being done as well.
 
 ### About
 
