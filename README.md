@@ -17,5 +17,6 @@ Hi, my name is Wil Perea I was a professor at a community college and now am wor
 as well as a BS in Mathematics. Otherwise I have been working on developing my programming skills and general data analysis through various online resources.
 
 Contacts:
-pereaw@gmail.com
+pereaw@gmail.com 
+
 https://www.linkedin.com/in/wil-perea/
