@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio showcases various machine learning and data analysis projects, all of which are written in Python.
+This portfolio showcases various machine learning and data analysis projects, all of which are written in Python or SQL.
 
 ## ML Programming
 
