@@ -13,6 +13,10 @@ I have completed two introductory Kaggle competitions on the Titanic and Housing
 
 The projects in this section generally focus on cleaning datasets, generating simple statistics, and creating visualizations. There may or may not be some modeling being done as well.
 
+## SQL projects
+
+I felt the need to upload some sort of more complete work dealing with SQL. I only have a few projects in there right now but I am continuously working on SQL problems in general (leetcode/datalemur) and would like to work on another large project.
+
 ## About
 
 Hi, my name is Wil Perea. I was a professor at a community college and am now working towards a career in data. I hold an MS in Biostatistics as well as a BS in Mathematics. I have been working on developing my programming skills and general data analysis through various online resources.
