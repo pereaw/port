@@ -15,7 +15,7 @@ The projects in this section generally focus on cleaning datasets, generating si
 
 ## SQL projects
 
-I felt the need to upload some sort of more complete work dealing with SQL. I only have a few projects in there right now but I am continuously working on SQL problems in general (leetcode/datalemur) and would like to work on another large project.
+Here are a few projects exploring tables or databases in SQL. In general there are a series of queries and aggregates performed to create tables with various metrics. 
 
 ## About
 
