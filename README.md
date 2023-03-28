@@ -19,7 +19,7 @@ Here are a few projects exploring tables or databases in SQL. In general there a
 
 ## About
 
-My name is Wil Perea. I hold an MS in Biostatistics as well as a BS in Mathematics. I was a professor at a community college and am now working towards a career in data. I have been working on developing my programming skills and general data analysis through various online resources. 
+My name is Wil Perea. I hold an MS in Biostatistics as well as a BS in Mathematics. I was a professor at SCC and am now working towards a career in data. I have been working on developing my programming skills and general data analysis through various online resources. 
 
 ## Contacts:
 
